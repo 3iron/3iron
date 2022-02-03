@@ -26,20 +26,25 @@ LANG
 ![Swift](https://img.shields.io/badge/-Swift%20-0071C5?style=flat-square&logo=Swift&logoColor=white)
 
 
-PYTHON - WEB
+WEB
 
 ![Djagno](https://img.shields.io/badge/-Django%20-0071C5?style=flat-square&logo=Django&logoColor=white)
-
-JAVA - WEB
-
 ![Eclipse](https://img.shields.io/badge/-Eclipse%20-0071C5?style=flat-square&logo=Eclipse&logoColor=white)
-
+![JavaScript](https://img.shields.io/badge/-JavaScript%20-0071C5?style=flat-square&logo=JavaScript&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot%20-0071C5?style=flat-square&logo=SpringBoot&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap%20-0071C5?style=flat-square&logo=Bootstrap&logoColor=white)
+![JSP](https://img.shields.io/badge/-JSP%20-0071C5?style=flat-square&logo=JSP&logoColor=white)
+![Colab](https://img.shields.io/badge/-Colab%20-0071C5?style=flat-square&logo=Colab&logoColor=white)
 
 DB
 
 ![MySQL](https://img.shields.io/badge/-MySQL%20-0071C5?style=flat-square&logo=MySQL&logoColor=white)
 
 
+SERVER
+
+![Linux](https://img.shields.io/badge/-Linux%20-0071C5?style=flat-square&logo=Linux&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS%20-0071C5?style=flat-square&logo=AWS&logoColor=white)
 
 
 CONTACT
