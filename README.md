@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/mini/generate_badge?boj=3iron)](https://solved.ac/3iron)
+[![Solved.acProfile](http://mazassumnida.wtf/api/mini/generate_badge?boj=3iron)](https://solved.ac/3iron)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F3iron&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
