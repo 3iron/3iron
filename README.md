@@ -33,8 +33,8 @@ WEB
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20-0071C5?style=flat-square&logo=JavaScript&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot%20-0071C5?style=flat-square&logo=SpringBoot&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap%20-0071C5?style=flat-square&logo=Bootstrap&logoColor=white)
-![JSP](https://img.shields.io/badge/-JSP%20-0071C5?style=flat-square&logo=JSP&logoColor=white)
-![Colab](https://img.shields.io/badge/-Colab%20-0071C5?style=flat-square&logo=Colab&logoColor=white)
+![Pycahrm](https://img.shields.io/badge/-Pycharm%20-0071C5?style=flat-square&logo=Pycharm&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/-GoogleColab%20-0071C5?style=flat-square&logo=GoogleColab&logoColor=white)
 
 DB
 
