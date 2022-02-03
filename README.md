@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 
 ![Intel](https://img.shields.io/badge/-Intel%20Korea-0071C5?style=flat-square&logo=intel&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/-PYTHON%20-0071C5?style=flat-square&logo=PYTHON&logoColor=white)
+![JAVA](https://img.shields.io/badge/-JAVA-d14836?style=flat-square&logo=JAVA&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:3iron38@gmail.com)](mailto:3iron38@gmail.com)
