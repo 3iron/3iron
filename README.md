@@ -26,9 +26,20 @@ LANG
 ![Swift](https://img.shields.io/badge/-Swift%20-0071C5?style=flat-square&logo=Swift&logoColor=white)
 
 
-TOOL
+PYTHON - WEB
 
 ![Djagno](https://img.shields.io/badge/-Django%20-0071C5?style=flat-square&logo=Django&logoColor=white)
+
+JAVA - WEB
+
+![Eclipse](https://img.shields.io/badge/-Eclipse%20-0071C5?style=flat-square&logo=Eclipse&logoColor=white)
+
+
+DB
+
+![MySQL](https://img.shields.io/badge/-MySQL%20-0071C5?style=flat-square&logo=MySQL&logoColor=white)
+
+
 
 
 CONTACT
