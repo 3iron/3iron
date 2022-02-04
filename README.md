@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 
 LANG
 
-![PYTHON](https://img.shields.io/badge/-PYTHON%20-0071C5?style=flat-square&logo=PYTHON&logoColor=white)
-![JAVA](https://img.shields.io/badge/-JAVA-d14836?style=flat-square&logo=JAVA&logoColor=white)
-![Swift](https://img.shields.io/badge/-Swift%20-0071C5?style=flat-square&logo=Swift&logoColor=white)
+![PYTHON](https://img.shields.io/badge/-PYTHON-3776ab?style=flat-square&logo=PYTHON&logoColor=white)
+![JAVA](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=JAVA&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-f05138?style=flat-square&logo=Swift&logoColor=white)
 
 
 WEB
