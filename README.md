@@ -46,7 +46,7 @@ DB
 SERVER
 
 ![Linux](https://img.shields.io/badge/-Linux%20-0071C5?style=flat-square&logo=Linux&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS%20-0071C5?style=flat-square&logo=AWS&logoColor=white)
+![AmazonWebService](https://img.shields.io/badge/-AmazonWebService%20-0071C5?style=flat-square&logo=AmazonWebService&logoColor=white)
 
 
 CONTACT
