@@ -34,22 +34,26 @@ WEB
 ![Eclipse](https://img.shields.io/badge/-Eclipse%20-0071C5?style=flat-square&logo=Eclipse&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20-0071C5?style=flat-square&logo=JavaScript&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot%20-0071C5?style=flat-square&logo=SpringBoot&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap%20-0071C5?style=flat-square&logo=Bootstrap&logoColor=white)
-![Pycahrm](https://img.shields.io/badge/-Pycharm%20-0071C5?style=flat-square&logo=Pycharm&logoColor=white)
-![GoogleColab](https://img.shields.io/badge/-GoogleColab%20-0071C5?style=flat-square&logo=GoogleColab&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=Bootstrap&logoColor=white)
+![Pycahrm](https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=Pycharm&logoColor=white)
+![GoogleColab](https://img.shields.io/badge/-GoogleColab-f9ab00?style=flat-square&logo=GoogleColab&logoColor=white)
+
+#7952B3
+#000000
+#F9AB00
 
 DB
 
-![MySQL](https://img.shields.io/badge/-MySQL%20-0071C5?style=flat-square&logo=MySQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white)
 
+#4479A1
 
 SERVER
 
-![Linux](https://img.shields.io/badge/-Linux%20-0071C5?style=flat-square&logo=Linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-232f3e?style=flat-square&logo=AmazonAWS&logoColor=white)
 
-#232F3E
-232f3e
+#FCC624
 
 CONTACT
 
