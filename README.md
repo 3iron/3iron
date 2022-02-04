@@ -46,9 +46,10 @@ DB
 SERVER
 
 ![Linux](https://img.shields.io/badge/-Linux%20-0071C5?style=flat-square&logo=Linux&logoColor=white)
-![AmazonAWS](https://img.shields.io/badge/-AmazonAWS%20-0071C5?style=flat-square&logo=AmazonAWS&logoColor=white)
+![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-232f3e?style=flat-square&logo=AmazonAWS&logoColor=white)
 
 #232F3E
+232f3e
 
 CONTACT
 
