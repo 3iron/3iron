@@ -48,6 +48,8 @@ SERVER
 ![Linux](https://img.shields.io/badge/-Linux%20-0071C5?style=flat-square&logo=Linux&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/-AmazonAWS%20-0071C5?style=flat-square&logo=AmazonAWS&logoColor=white)
 
+#232F3E
+
 CONTACT
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:3iron38@gmail.com)](mailto:3iron38@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-232f3e?style=flat-square&logo=Gmail&logoColor=white&link=mailto:3iron38@gmail.com)](mailto:3iron38@gmail.com)
