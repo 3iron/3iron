@@ -49,6 +49,9 @@ SERVER
 ![Linux](https://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=Linux&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/-AmazonAWS-232f3e?style=flat-square&logo=AmazonAWS&logoColor=white)
 
+
+ETC
+
 ![Jupyter](https://img.shields.io/badge/-Jupyter-f37626?style=flat-square&logo=Jupyter&logoColor=white)
 
 
